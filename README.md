@@ -2,6 +2,8 @@
 
 Built based on [Udemy Class](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
 
+[Github Pages Static Site](https://john-cassidy.github.io/monsters-rolodex/)
+
 ## Json Placeholder Data
 
 [Users](https://jsonplaceholder.typicode.com/users)
