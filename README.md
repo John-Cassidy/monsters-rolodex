@@ -13,3 +13,5 @@ Built based on [Udemy Class](https://www.udemy.com/course/complete-react-develop
 [Example Image from Robohash.org](https://robohash.org/1?set=set2)
 
 [Another Example Image from Robohash.org](https://robohash.org/9?set=set2)
+
+[React lifecycle methods diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
